@@ -9,3 +9,4 @@ redis
 #--platform=linux/arm64 xiaoyaliu/alist
 jenkins/jenkins:lts
 confluentinc/cp-kafka-rest:8.0.4
+bitnamilegacy/etcd:3.5.11
