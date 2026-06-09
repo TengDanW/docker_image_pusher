@@ -16,3 +16,4 @@ grafana/grafana:7.3.7
 apache/apisix:3.15.0-debian
 apache/apisix-dashboard
 okainov/mantisbt
+mongo:6.0
